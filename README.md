@@ -3,10 +3,7 @@ MSDS 422 Module 1 Assignment 1: House Prices: Advanced Regression Techniques EDA
 Management/Research Question:
 In layman’s terms, what is the management/research question of interest, and why would anyone care?
 
-+ The research question of interest is: What features impact sales price? Someone might care about this
-+ in order to set the price of a house on the market based on these features knowing that, for example, a fire
-+ place making a house more valuable to buyers. Another reason someone might care is if a certain feature has a
-+ negative correlation with house price - they might want to change or spin that feature for the sale.
++ The research question of interest is: What features impact sales price? Someone might care about this in order to set the price of a house on the market based on these features knowing that, for example, a fireplace making a house more valuable to buyers. Another reason someone might care is if a certain feature has a negative correlation with house price - they might want to change or spin that feature for the sale.
 
 Requirements:
 Conduct your analysis using a cross-validation design.
