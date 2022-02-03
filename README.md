@@ -1,7 +1,7 @@
 # Company-Bankruptcy-Prediction-Kaggle
 
 Split the training set into an 80% training and 20% validation set. 
-Build three models: 
+Build models: 
   1. SVM
   2. Logistic regression model
   4. Naïve Bayes model
