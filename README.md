@@ -4,7 +4,10 @@ Split the training set into an 80% training and 20% validation set.
 Build three models: 
   1. SVM
   2. Logistic regression model
-  3. Naïve Bayes model
+  4. Naïve Bayes model
+  5. LDA
+  6. QDA
+  7. KNN
 
 Conduct hyperparameter tuning for the SVM kernel. 
 Evaluate goodness of fit metrics including TPR, FPR, precision, recall, and accuracy on the training and validation sets. 
