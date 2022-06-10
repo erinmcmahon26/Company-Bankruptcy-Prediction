@@ -1,6 +1,7 @@
-# Company-Bankruptcy-Prediction-Kaggle
+# Company Bankruptcy Prediction
 
-Assess company bankruptcy based on the Taiwan Stock exchange from years 1999 to 2009 (source: Taiwan Economic Journal via Kaggle (https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction/code). The goal is to predict bankruptcy using specific Machine Learning Classifiers:   
+Assess company bankruptcy based on the Taiwan Stock exchange from years 1999 to 2009 (source: Taiwan Economic Journal via Kaggle (https://www.kaggle.com/fedesoriano/company-bankruptcy-prediction/code). The goal is to predict bankruptcy using a set of models and comparing which model has the highest performance:   
+
   1. SVM
   2. Logistic regression model
   4. Naïve Bayes model
